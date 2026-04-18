@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 Climate Trend Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -114,3 +115,7 @@ Real-world Data Handling
 👩‍💻 Author
 
 Sanskritika Awasthi
+
+# climate-trend-analyzer
+Data Science project for analyzing climate trends, anomalies, and forecasting
+
